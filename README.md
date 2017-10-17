@@ -12,6 +12,10 @@ com.google.common.base.Splitter$SplittingIterator.computeNext(Splitter.java:506)
 
 ```
 
+# serenity-issue-974
+With this sample we can reproduce some behavior too concerning the report, more details on :
+ https://github.com/serenity-bdd/serenity-core/issues/974
+
 ## Configurations
 For now, only tested on Windows 10 and with Chrome and Firefox (both last version).
 
